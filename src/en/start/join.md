@@ -29,3 +29,4 @@ After creating an account, download the [Discord client](https://discord.com/dow
 4. Paste the invitation link and click "Join."
 
 If the invitation link is invalid, the server may be temporarily closed. Please wait for it to reopen. Now you can proceed to the next step.
+
